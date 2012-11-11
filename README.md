@@ -3,7 +3,7 @@
 ### To test
 
 	node app.js
-	# while app.js is running, make some change to data.js (change the key, value or add key/value pair, etc)
+	# while app.js is running, make some changes to data.js (change the key, value or add key/value pair, etc)
 	# and watch the output change from app.js 
 
 ### Credit
